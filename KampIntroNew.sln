@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{B39AF0FD-8202-4047-BD53-F4D17CAA3EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{C70DB133-E543-46AB-9EBF-792538E1B294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{C70DB133-E543-46AB-9EBF-792538E1B294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{036931B9-72D2-46B0-9297-7C7D0E127551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{036931B9-72D2-46B0-9297-7C7D0E127551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{7C132C39-BC78-4D46-A09D-E59F7F15E543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{036931B9-72D2-46B0-9297-7C7D0E127551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036931B9-72D2-46B0-9297-7C7D0E127551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036931B9-72D2-46B0-9297-7C7D0E127551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C132C39-BC78-4D46-A09D-E59F7F15E543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C132C39-BC78-4D46-A09D-E59F7F15E543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C132C39-BC78-4D46-A09D-E59F7F15E543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C132C39-BC78-4D46-A09D-E59F7F15E543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

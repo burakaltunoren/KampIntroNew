@@ -22,6 +22,7 @@ namespace Collections
 
 
             List<string> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil" };
+            Console.WriteLine(isimler2.Count);
 
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[1]);
@@ -37,8 +38,8 @@ namespace Collections
             List<string> liste1 = new List<string> { };
             Console.WriteLine(liste1.Count);
 
-
-
+            
+               
 
 
 
