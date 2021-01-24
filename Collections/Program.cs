@@ -7,7 +7,7 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            //string[] isimler = new string[] {"Engin", "Murat", "Kerem", "Halil", "ben" };
+            //string[] isimler = new string[] { "Engin", "Murat", "Kerem", "Halil", "ben" };
             //Console.WriteLine(isimler[0]);
             //Console.WriteLine(isimler[1]);
             //Console.WriteLine(isimler[2]);
@@ -19,7 +19,10 @@ namespace Collections
 
             //List<string> isimler2 = new List<string>();
             //isimler2.Add("engin");
+
+
             List<string> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil" };
+
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[1]);
             Console.WriteLine(isimler2[2]);
@@ -28,9 +31,16 @@ namespace Collections
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
 
-            
+            List<int> liste = new List<int> {};
+            Console.WriteLine(liste.Count);
 
-            
+            List<string> liste1 = new List<string> { };
+            Console.WriteLine(liste1.Count);
+
+
+
+
+
 
 
 
